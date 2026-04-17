@@ -1,4 +1,4 @@
-# posttest3-praktikum-iot-unmul-2026
+# Sistem Monitoring Ketinggian Air Pada Bendungan Yang Terintegrasi Dengan Protokol MQTT
 
 Sistem Smart Dam merupakan integrasi teknologi Internet of Things (IoT) dengan MQTT yang memanfaatkan konektivitas nirkabel untuk memberikan peringatan dini terhadap ketinggian air pada bendungan. Melalui penggunaan mikrokontroler ESP32, sistem ini tidak hanya memungkinkan pengendalian pintu maupun sensor pada bendungan air, tetapi juga mengimplementasikan pemantauan kondisi secara real-time. Dengan integrasi sensor air dan protokol MQTT, maka sistem ini bisa menjadi solusi yang tepat dalam mengontrol bendungan air saat jaringan dalam kondisi yang tidak baik.
 
